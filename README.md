@@ -21,8 +21,6 @@ Bu proje, İlk Yardım konusunda, yapay zekâ destekli bir chatbot geliştirme s
 
 ## Chatbot Akış Diyagramı
 
-![Chatbot Akış Diyagramı](images/chatbot-akis.png)
-
 ```mermaid
 flowchart TD
     A[Başlangıç] --> B{Kullanıcı Soru Soruyor}
