@@ -1,0 +1,21 @@
+Intent,Örnek Cümle
+Greeting,Merhaba, size nasıl yardımcı olabilirim?
+Greeting,Selam! Size nasıl yardımcı olabilirim?
+Greeting,Merhaba! Size nasıl yardımcı olabilirim?
+Greeting,Selamlar! Size nasıl yardımcı olabilirim?
+Greeting,İyi günler! Size nasıl yardımcı olabilirim?
+Goodbye,Görüşmek üzere, iyi günler dilerim.
+Goodbye,Hoşça kalın!
+Goodbye,İyi günler!
+Goodbye,Görüşmek üzere!
+Goodbye,Hoşça kalın, sağlıklı günler!
+Reject,Üzgünüm, bu konuda yardımcı olamam.
+Reject,Maalesef bu isteği yerine getiremiyorum.
+Reject,Bu konuda yardımcı olamıyorum.
+Reject,Üzgünüm, bu mümkün değil.
+Reject,Maalesef yardımcı olamam.
+FirstAidInfo,Yanık durumunda ne yapmalıyım?
+FirstAidInfo,Burkulma için ilk yardım nasıl olmalı?
+FirstAidInfo,Kanama durumunda ne yapılmalı?
+FirstAidInfo,Boğulma anında ilk yardım nedir?
+FirstAidInfo,Elektrik çarpmasında ne yapılmalı? 
